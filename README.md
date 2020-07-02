@@ -1,1 +1,1 @@
-#http://confbela.git.io
+#http://confbela.github.io
